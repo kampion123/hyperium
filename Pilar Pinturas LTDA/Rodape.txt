@@ -1,0 +1,26 @@
+footer{
+            display: flex;
+            justify-content: space-between;
+            background-color: black;
+            color: yellow;
+            padding-left: 5%;
+            padding-right: 5%;
+        }
+
+<footer>
+                <div>
+                    <h5>Serviços</h5>
+                    <h6>✔ Pinturas Reidenciais</h6>
+                    <h6>✔ Pinturas Condominios</h6>
+                    <h6>✔ Pinturas Industriais</h6>
+                    <h6>✔ Pinturas Hospitalar</h6>
+                    <h6>✔ Pinturas Personalizado</h6>
+                </div>
+                <div>
+                    <h5>Atendimento</h5>
+                    <h6>📱 19-983597674</h6>
+                    <h6>📧 pinta.pinto@gmailcom</h6>
+                    <h6>📍 Rua: São José do Rio Preto, 1100- Bairro: Nova Campinas -  Campinas/SP</h6>
+                    
+                </div>
+            </footer>
